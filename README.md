@@ -1,4 +1,4 @@
-# PhonePe Demographic Analysis Key Findings & Recommendations
+# Key Findings & Recommendations
 
 1. Transaction Volume by State: Karnataka records the highest transaction volume, exceeding 2.98 billion transactions, with an Average Transaction Value (ATV) of ₹1,463.04. Lakshadweep has the lowest transaction volume, with just 71,610+ transactions and an ATV of ₹2,683.40.
     Recommendation: To drive higher adoption in Lakshadweep and other low-transaction states, targeted promotional campaigns, cashback offers, and educational initiatives on digital transactions can be implemented.
